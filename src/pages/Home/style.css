@@ -1,0 +1,37 @@
+*{
+    background-color: rgb(146, 90, 248);
+}
+
+#seeMore{
+    text-decoration: none;
+    color:black
+}
+
+#seeMore:hover{
+    color: white
+}
+
+#animeCover{
+    padding: 10px;
+}
+#animeCover:hover {
+    transform: scale(1.2);
+  }
+
+.searchBar {
+    align-items: center;
+    text-align: center;
+    margin: 5px;
+}
+
+#frontImage{
+    align-items: center;
+    display: flex;
+    width: 35%;
+    flex-direction: row
+}
+
+::placeholder { 
+    color: rgb(0, 0, 0);
+    opacity: 1; 
+  }
