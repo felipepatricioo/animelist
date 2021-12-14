@@ -5,3 +5,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ##
 
 Simple React project to search animes registered on MyAnimeList using the Jikan API (https://jikan.moe/). 
+
+
+App running on: https://animesagasu.netlify.app/
